@@ -1,3 +1,0 @@
-1,Nguyen Van A, 1
-2,Nguyen Van B, 3
-3,Doan Van Thai, 2

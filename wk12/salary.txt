@@ -1,6 +1,0 @@
-Mã nhân viên: 2
-Tên nhân viên: Nguyen Van B
-Rate: 3
-Số ngày nghỉ: 1
-Lương (VNĐ): 100000.00
-Lương (USD): 4.35
